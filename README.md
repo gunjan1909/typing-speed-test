@@ -26,6 +26,6 @@ To run this project, you will need to have a web browser and a code editor insta
 
 This typing speed test is a fun and interactive way to improve your typing skills. Whether you are a beginner or an experienced typist, this project can help you to increase your typing speed and accuracy. With the option to customize the test, you can tailor it to your specific needs and preferences. Enjoy!
 
-README GENERATED USING [CHATGPT](https://chat.openai.com/chat)
+THIS README GENERATED USING [CHATGPT](https://chat.openai.com/chat)
 
-QUTE GENERATED USING [QUOTE GENERATOR API](https://github.com/lukePeavey/quotable)
+QUOTE GENERATED USING [QUOTE GENERATOR API](https://github.com/lukePeavey/quotable)
